@@ -18,6 +18,7 @@ public class InicioSesionAdmin extends javax.swing.JPanel {
     public InicioSesionAdmin(HealthSoftware ventana) {
         this.ventana = ventana;
          setVisible(true);
+         System.out.println("hola");
         initComponents();
     }
 
